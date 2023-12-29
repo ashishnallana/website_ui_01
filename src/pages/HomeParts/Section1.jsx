@@ -5,7 +5,7 @@ import hero1 from "../../assets/hero1.png";
 
 function Section1() {
   return (
-    <div className="h-screen w-full">
+    <div className="h-screen w-screen">
       <div
         className="h-[100vh] w-[100vw] absolute top-0 left-0 flex flex-row-reverse max-[850px]:flex-col"
         style={{

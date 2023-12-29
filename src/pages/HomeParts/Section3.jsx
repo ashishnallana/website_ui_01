@@ -2,7 +2,7 @@ import React from "react";
 
 function Section3() {
   return (
-    <div className="flex flex-col items-center h-screen py-10 px-5 mb-10 space-y-10">
+    <div className="flex flex-col items-center py-10 px-5 mb-10 space-y-10">
       <h2 className="flex items-center text-[30px]">
         <svg
           className="mr-5"
