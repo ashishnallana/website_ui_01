@@ -89,7 +89,7 @@ function Dashboard() {
         <div className="flex-1 bg-[#F2FBFA] h-[calc(100vh - 60px)] p-5 overflow-y-scroll">
           {/* hello txt */}
           <div className="text-[#24B7A5]">
-            <h1 className="text-[24px]">Hello Shreyansh Jha!</h1>
+            <h1 className="text-[24px]">Hello Ashish Nallana!</h1>
             <p className="text-[15px]">Let’s start prospecting.</p>
           </div>
           <div className="flex flex-col w-[inherit] justify-center items-center mt-10 bg-white p-5">
